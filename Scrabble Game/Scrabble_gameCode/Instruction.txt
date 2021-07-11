@@ -1,0 +1,12 @@
+1. This game will be according to number of turns i.e., if we choose to have two 
+   turns then game will end after two turns.
+2. It will have maximum 4 players and minimum 1 player. 1 player can also play 
+   to test his or her knowledge of dictionary words.
+3. Each player will be given a set of 7 letters at start of game and after every 
+   turn vacancy in set will be filled by new letters.
+4. From that set each player will have to make a word of any number of letters 
+   (max 7) and the letters used for making that word will get deleted or removed 
+   from set of that player.
+5. Word will be then checked in dictionary. If word will be valid player will get
+   points equal to the sum of values of letters else zero point.
+6. Player with maximum points will be winner.
