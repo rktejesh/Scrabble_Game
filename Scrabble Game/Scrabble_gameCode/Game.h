@@ -10,7 +10,7 @@ class Game
 {
 public:
     void instructions();
-    void play_game();
+    void playgame();
 };
 
 #endif

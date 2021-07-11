@@ -19,7 +19,7 @@ void Game ::instructions()
     cout << "\n------------------------------------------\n\n";
 }
 
-void Game ::play_game()
+void Game ::playgame()
 {
     int turns;
     int Playernum;

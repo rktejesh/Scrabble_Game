@@ -26,7 +26,7 @@ int main()
         }
         else if (chc == 2)
         {
-            g.play_game();
+            g.playgame();
         }
         else if (chc == 3)
         {
